@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TO DO LIST</title>
+  <link rel="stylesheet" href="TO.css">
+  <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
+</head>
+<body>
+  <div class="container">
+    <div class="stats">
+      <div class="details">
+        <h1>TO DO APP</h1>
+        <div id="bar">
+          <div id="progressline"></div>
+        </div>
+      </div>
+      <div class="number">
+        <p id="number">0/0</p>
+      </div>
+    </div>
+
+    <form>
+      <input type="text" id="task-input" placeholder="Add a new task..." autocomplete="off">
+      <button type="submit" id="add-task-btn">+</button>
+    </form>
+
+    <ul class="tasklist"></ul>
+  </div>
+
+  <script src="script.js" defer></script>
+</body>
+</html>
