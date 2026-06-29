@@ -18,7 +18,7 @@ A clean, modern, and interactive browser-based Todo List application designed to
 ## 🚀 Run the Project
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/bharathkumar7733/projects-fsd.git
+   git clone https://github.com/bharathkumar7733/localstorage-todo-app.git
    ```
 2. Open `todo.html` directly in your browser.
 
