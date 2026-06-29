@@ -12,7 +12,8 @@ A clean, modern, and interactive browser-based Todo List application designed to
 ## 🛠️ Tech Stack
 - **HTML5**: Form-based structure.
 - **CSS3**: Custom stylized interface with stats bars and modern input UI.
-- **JavaScript**: LocalStorage interactions, DOM manipulations, and event handling.
+- **JavaScript**: LocalStorage interactions, DOM manipulations,
+- and event handling.
 - **Third-Party CDN**: Canvas-Confetti browser bundle.
 
 ## 🚀 Run the Project
